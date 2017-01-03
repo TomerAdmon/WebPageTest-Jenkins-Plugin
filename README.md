@@ -22,6 +22,6 @@
 In the build configuration, add a "Web Page Test Build Step", specify the Web Page Test server instance to use and the target host.
 For more information, click the Advanced button.
 
-![Alt text](Pics/WPT_Build_Step.png?raw=true)
+![Alt text](Pics/Wpt_step.png?raw=true)
 
 ![Alt text](Pics/WPT_Build_Step.png?raw=true)
