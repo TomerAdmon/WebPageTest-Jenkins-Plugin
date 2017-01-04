@@ -1,5 +1,7 @@
 # WebPageTest-Jenkins-Plugin
 
+[![Stories in Ready](https://badge.waffle.io/TomerAdmon/WebPageTest-Jenkins-Plugin.svg?label=ready&title=Ready)](http://waffle.io/TomerAdmon/WebPageTest-Jenkins-Plugin)
+
 
 ##Prerequisite
 1) Jenkins server 2.0 and above.
